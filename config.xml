@@ -4,8 +4,8 @@
 		id          = "Motion"
         version     = "1.0.0" >
 
-    <name>Network</name>
-    <description>My first mobile app</description>
+    <name>Motion</name>
+    <description>Motion App</description>
     <author href="http://mypersonalwebsite.com" email="johnbrown@gmail.com">
 		John Brown
 	</author>
